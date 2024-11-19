@@ -9,7 +9,8 @@
 A simple keyhole overlay effect, inspired by Dishonored's Peeping keyhole mechanic. It was created for Unity URP (6000.0.27f1) and for Serious Point Games as part of my studies in shader development.
 It could theoretically run on Unity 2022 since its using the same code I used for the effects's render feature and pass within Unity 2022, but it is untested.
 
-The effect was built on top of the transition post processing code I have, You can refer to it at [Github Repo Link](https://github.com/Josephy5/Transition-Post-Processing)
+The effect was built on top of the transition post processing code I have, You can refer to it at [Github Repo Link](https://github.com/Josephy5/Transition-Post-Processing).
+You can refer to the effect's documentation for more info (should be in the repo and its release as a PDF file).
 
 ## Features
 - Create keyhole overlays with a slight blur to the keyhole edges
