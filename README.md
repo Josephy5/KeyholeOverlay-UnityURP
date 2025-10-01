@@ -31,5 +31,5 @@ The Keyhole Overlay effect
 
 ## Credits/Assets used
 Some of the shader code is based from Dan Moran's Shaders Case Study—Pokémon Battle Transitions YouTube video ([Youtube Video Link](https://youtu.be/LnAoD7hgDxw?si=tCtTEOshaZdfLi6R)). It has since been modified to be used as a solution
-to simulate a keyhole overlay for Serious Point Games. Could not found a license for the original code, Dan Moran said that he is unsure if he added a specific license to the code but he is open for it to be used in a 
+to simulate a keyhole overlay for Serious Point Games. Could not find a license for the original code, Dan Moran said that he is unsure if he added a specific license to the code but he is open for it to be used in a 
 commercial product (in a reply to a commenter named hectorcastellizacharias7056).
