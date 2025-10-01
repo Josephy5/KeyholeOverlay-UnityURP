@@ -1,12 +1,12 @@
 ![image_021_0001](https://github.com/user-attachments/assets/55c8f6d5-275e-4414-ad52-121ee1e30f55)
 
 # Keyhole Overlay Post Processing
-![Unity Version](https://img.shields.io/badge/Unity-6000.0.27%27LTS%2B-blueviolet?logo=unity)
+![Unity Version](https://img.shields.io/badge/Unity-6000.0.58%27LTS%2B-blueviolet?logo=unity)
 ![Unity Pipeline Support (Built-In)](https://img.shields.io/badge/BiRP_❌-darkgreen?logo=unity)
 ![Unity Pipeline Support (URP)](https://img.shields.io/badge/URP_✔️-blue?logo=unity)
 ![Unity Pipeline Support (HDRP)](https://img.shields.io/badge/HDRP_❌-darkred?logo=unity)
  
-A simple keyhole overlay effect, inspired by Dishonored's Peeping keyhole mechanic. It was created for Unity URP (6000.0.27f1) and for Serious Point Games as part of my studies in shader development.
+A simple keyhole overlay effect, inspired by Dishonored's Peeping keyhole mechanic. It was created for Unity URP (6000.0.58f1) and for Serious Point Games as part of my studies in shader development.
 It could theoretically run on Unity 2022 since its using the same code I used for the effects's render feature and pass within Unity 2022, but it is untested.
 
 The effect was built on top of the transition post processing code I have, You can refer to it at [Github Repo Link](https://github.com/Josephy5/Transition-Post-Processing).
@@ -30,5 +30,6 @@ The Keyhole Overlay effect
 5. If needed, you can change the effect's render pass event in its render feature under settings.
 
 ## Credits/Assets used
-Some of the shader code is based from Dan Moran's Shaders Case Study—Pokémon Battle Transitions YouTube video
-[-Youtube Video Link-](https://youtu.be/LnAoD7hgDxw?si=tCtTEOshaZdfLi6R).
+Some of the shader code is based from Dan Moran's Shaders Case Study—Pokémon Battle Transitions YouTube video ([Youtube Video Link](https://youtu.be/LnAoD7hgDxw?si=tCtTEOshaZdfLi6R)). It has since been modified to be used as a solution
+to simulate a keyhole overlay for Serious Point Games. Could not found a license for the original code, Dan Moran said that he is unsure if he added a specific license to the code but he is open for it to be used in a 
+commercial product (in a reply to a commenter named hectorcastellizacharias7056).
